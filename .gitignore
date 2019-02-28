@@ -1,0 +1,8 @@
+# exercism config
+**/.exercism/
+
+# VS Code config
+.vscode
+
+# misc
+.DS_Store
